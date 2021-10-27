@@ -90,7 +90,7 @@ XPath quick reference:
   .                         Refers to the current node
   ..                        Refers to the parent node
   local-name()              Returns a string representing the local name of the given node.
-  namespace-uri()   Returns a string representing the namespace URI of the given node.
+  namespace-uri()           Returns a string representing the namespace URI of the given node.
   upper-case()              Convert the given string value to upper case.
   matches(str, pat[, 'i'])  Returns true if 'str' matches the regular expression 
                             supplied as 'pat'. If a third parameter, 'i', is provided
